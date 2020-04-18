@@ -28,7 +28,7 @@ public class Lexer {
 		
 		System.out.print( "                  Bienvenido           \n");
 		System.out.print("Por favor Introduce las Expresiones que desees          *\n");
-		System.out.print("Cuando Termines Pulsa Barra Espaciadora y Enter         *\n");
+		System.out.print("Cuando Termines Pulsa Barra Espaciadora y  el boton Enter         *\n");
 		System.out.println();
 	}
 

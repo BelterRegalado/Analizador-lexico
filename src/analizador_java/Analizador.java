@@ -2,18 +2,21 @@
 package analizador_java;
 
 
-import java.util.Scanner;
+
 
 /**
  *
  * @author pc
  */
+import java.util.Scanner;
+import javax.swing.JPanel;
 public class Analizador {
-    
-    
+
+
+ 
+
 	public static void main(String carls[])
-            
-	{ 
+        {
             Scanner end = new Scanner (System.in);   	
             int op;
             do{

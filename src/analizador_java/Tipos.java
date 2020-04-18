@@ -14,6 +14,7 @@ class tipos
 	private int cont;
 	private String tipo;
 	private String cualesSon;
+        // aqui puse los constructores de los tipos de datos que hay y otros.
 
 	public tipos(int cont,String tipo,String cualesSon)
 	{
